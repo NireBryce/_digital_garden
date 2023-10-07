@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-07-on-people-often-misunderstanding-the-purpose-of-messages-in-art/"}
+{"dg-publish":true,"permalink":"/main/2023-07-07-on-people-often-misunderstanding-the-purpose-of-messages-in-art/","noteIcon":""}
 ---
 
 
