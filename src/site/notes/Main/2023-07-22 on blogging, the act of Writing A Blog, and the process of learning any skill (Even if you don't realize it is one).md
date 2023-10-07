@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-22-on-blogging-the-act-of-writing-a-blog-and-the-process-of-learning-any-skill-even-if-you-don-t-realize-it-is-one/"}
+{"dg-publish":true,"permalink":"/main/2023-07-22-on-blogging-the-act-of-writing-a-blog-and-the-process-of-learning-any-skill-even-if-you-don-t-realize-it-is-one/","noteIcon":""}
 ---
 
 #blogging #learning #cohost-repost
