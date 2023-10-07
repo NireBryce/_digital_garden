@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-11-steam-proton-and-wayland-software-cursor-bug/"}
+{"dg-publish":true,"permalink":"/main/2023-08-11-steam-proton-and-wayland-software-cursor-bug/","noteIcon":""}
 ---
 
 #linux #steam #steam-proton #planetside #wayland #chromium #bugs
