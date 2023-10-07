@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-06-21-on-my-web-browser-layout/"}
+{"dg-publish":true,"permalink":"/main/2023-06-21-on-my-web-browser-layout/","noteIcon":""}
 ---
 
 on my web browser layout
