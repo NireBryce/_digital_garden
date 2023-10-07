@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2022-11-30-i-think-that-there-needs-to-be-more-thinking-and-discussion-on-anti-cheat-game-hacking-and-accessibility/"}
+{"dg-publish":true,"permalink":"/main/2022-11-30-i-think-that-there-needs-to-be-more-thinking-and-discussion-on-anti-cheat-game-hacking-and-accessibility/","noteIcon":""}
 ---
 
 #games #games-industry #game-hacking #anti-cheat #accessibility #cohost-repost 
