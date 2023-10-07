@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-06-05-on-pride-and-taking-the-offensive/"}
+{"dg-publish":true,"permalink":"/main/2023-06-05-on-pride-and-taking-the-offensive/","noteIcon":""}
 ---
 
 #movement-building #queer #lgbt #trans #pride #cohost-repost
