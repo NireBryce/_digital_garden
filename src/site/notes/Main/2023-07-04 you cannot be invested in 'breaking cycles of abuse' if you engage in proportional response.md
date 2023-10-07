@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-04-you-cannot-be-invested-in-breaking-cycles-of-abuse-if-you-engage-in-proportional-response/"}
+{"dg-publish":true,"permalink":"/main/2023-07-04-you-cannot-be-invested-in-breaking-cycles-of-abuse-if-you-engage-in-proportional-response/","noteIcon":""}
 ---
 
 #trauma #community-dynamics #abuse #cycles-of-abuse #cohost-repost
