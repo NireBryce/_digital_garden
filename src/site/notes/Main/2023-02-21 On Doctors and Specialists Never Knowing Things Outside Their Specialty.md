@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-21-on-doctors-and-specialists-never-knowing-things-outside-their-specialty/"}
+{"dg-publish":true,"permalink":"/main/2023-02-21-on-doctors-and-specialists-never-knowing-things-outside-their-specialty/","noteIcon":""}
 ---
 
 #medical #doctors #specialists #ehlers-danlos #cohost-repost 
