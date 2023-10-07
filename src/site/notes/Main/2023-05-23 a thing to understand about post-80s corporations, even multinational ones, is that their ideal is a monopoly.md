@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-05-23-a-thing-to-understand-about-post-80s-corporations-even-multinational-ones-is-that-their-ideal-is-a-monopoly/"}
+{"dg-publish":true,"permalink":"/main/2023-05-23-a-thing-to-understand-about-post-80s-corporations-even-multinational-ones-is-that-their-ideal-is-a-monopoly/","noteIcon":""}
 ---
 
 #monopoly #corporate-dynamics #social-dynamics #cohost-repost
