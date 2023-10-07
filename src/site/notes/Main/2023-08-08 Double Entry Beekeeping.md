@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-08-double-entry-beekeeping/"}
+{"dg-publish":true,"permalink":"/main/2023-08-08-double-entry-beekeeping/","noteIcon":""}
 ---
 
 # Double Entry Beekeeping
