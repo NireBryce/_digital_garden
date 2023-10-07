@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-06-16-on-objects-of-moderate-mass-and-the-slinging-thereof/"}
+{"dg-publish":true,"permalink":"/main/2023-06-16-on-objects-of-moderate-mass-and-the-slinging-thereof/","noteIcon":""}
 ---
 
 
