@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-23-that-thing-where-you-lose-nd-4-nd-relationships-because-you-can-t-prompt-conversation-if-you-don-t-know-their-interests-well/"}
+{"dg-publish":true,"permalink":"/main/2023-07-23-that-thing-where-you-lose-nd-4-nd-relationships-because-you-can-t-prompt-conversation-if-you-don-t-know-their-interests-well/","noteIcon":""}
 ---
 
 
