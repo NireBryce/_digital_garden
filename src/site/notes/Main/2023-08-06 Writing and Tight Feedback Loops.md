@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-06-writing-and-tight-feedback-loops/"}
+{"dg-publish":true,"permalink":"/main/2023-08-06-writing-and-tight-feedback-loops/","noteIcon":""}
 ---
 
 #web #writing #tools-for-thought #desktop-publishing #knowledge-work #cohost-repost #thinking-about
