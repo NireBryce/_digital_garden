@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-08-the-relationship-between-business-and-university/"}
+{"dg-publish":true,"permalink":"/main/2023-07-08-the-relationship-between-business-and-university/","noteIcon":""}
 ---
 
 #university #corporate-dynamics #business-university-cycle #no-one-knows-what-they-are-doing #cohost-repost
