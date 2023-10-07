@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2022-12-29-concrete-spalling-and-the-us-crumbling-infrastructure-and-property-owners-not-even-thinking-about-maintenence-cost-when-they-buy-things-anymore/"}
+{"dg-publish":true,"permalink":"/main/2022-12-29-concrete-spalling-and-the-us-crumbling-infrastructure-and-property-owners-not-even-thinking-about-maintenence-cost-when-they-buy-things-anymore/","noteIcon":""}
 ---
 
 #concrete #rebar #maintenance #spalling #civic-engineering #architecture #capitalism-in-decline #cohost-repost  
