@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-05-on-getting-enough-people-to-do-what-you-want-as-a-political-goal/"}
+{"dg-publish":true,"permalink":"/main/2023-08-05-on-getting-enough-people-to-do-what-you-want-as-a-political-goal/","noteIcon":""}
 ---
 
 #left #organizing #labor #no-shortcuts #basebuilding #cohost-repost
