@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-06-thinking-about-how-knowledge-work-is-much-more-pedagogy-than-knowing-things-and-code-itself-is-pedagogy-when-you-aren-t-trying-to-show-off/"}
+{"dg-publish":true,"permalink":"/main/2023-08-06-thinking-about-how-knowledge-work-is-much-more-pedagogy-than-knowing-things-and-code-itself-is-pedagogy-when-you-aren-t-trying-to-show-off/","noteIcon":""}
 ---
 
 
