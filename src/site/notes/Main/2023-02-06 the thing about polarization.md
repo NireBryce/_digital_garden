@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-06-the-thing-about-polarization/"}
+{"dg-publish":true,"permalink":"/main/2023-02-06-the-thing-about-polarization/","noteIcon":""}
 ---
 
 #polarization #social-dynamics #cohost-repost 
