@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-04-i-wonder-what-art-academia-will-talk-about-in-five-years-with-ai-art-clarifying-things/"}
+{"dg-publish":true,"permalink":"/main/2023-01-04-i-wonder-what-art-academia-will-talk-about-in-five-years-with-ai-art-clarifying-things/","noteIcon":""}
 ---
 
 #art #academia #art-crit #ai-art #ai-ml #cohost-repost 
