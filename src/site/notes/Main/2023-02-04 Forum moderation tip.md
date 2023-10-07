@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-04-forum-moderation-tip/"}
+{"dg-publish":true,"permalink":"/main/2023-02-04-forum-moderation-tip/","noteIcon":""}
 ---
 
 #pro-tip #forums #moderation #social-dynamics #cohost-repost 
