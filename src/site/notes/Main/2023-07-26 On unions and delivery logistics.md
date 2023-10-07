@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-26-on-unions-and-delivery-logistics/"}
+{"dg-publish":true,"permalink":"/main/2023-07-26-on-unions-and-delivery-logistics/","noteIcon":""}
 ---
 
 #climate #logistics #unions #cohost-repost
