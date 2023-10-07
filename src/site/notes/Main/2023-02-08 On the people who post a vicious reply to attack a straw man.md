@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-08-on-the-people-who-post-a-vicious-reply-to-attack-a-straw-man/"}
+{"dg-publish":true,"permalink":"/main/2023-02-08-on-the-people-who-post-a-vicious-reply-to-attack-a-straw-man/","noteIcon":""}
 ---
 
 #social-dynamics #cycles-of-abuse #organizing #cohost-repost #JFL
