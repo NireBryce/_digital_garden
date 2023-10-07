@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-12-on-green-wars/"}
+{"dg-publish":true,"permalink":"/main/2023-08-12-on-green-wars/","noteIcon":""}
 ---
 
 #war #green #environmentalism #absurd 
