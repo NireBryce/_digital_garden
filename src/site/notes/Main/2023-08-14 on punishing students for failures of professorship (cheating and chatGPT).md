@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-14-on-punishing-students-for-failures-of-professorship-cheating-and-chat-gpt/"}
+{"dg-publish":true,"permalink":"/main/2023-08-14-on-punishing-students-for-failures-of-professorship-cheating-and-chat-gpt/","noteIcon":""}
 ---
 
 #pedagogy #university #cheating #academic-integrity #chatGPT #ai-ml #cohost-repost 
