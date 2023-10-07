@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-23-on-how-consumer-protections-are-often-opposed-to-labor-protections/"}
+{"dg-publish":true,"permalink":"/main/2023-02-23-on-how-consumer-protections-are-often-opposed-to-labor-protections/","noteIcon":""}
 ---
 
 #labor #cohost-repost #street-economics 
