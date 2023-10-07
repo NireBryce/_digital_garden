@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-28-it-s-worth-thinking-about-collateral-damage-any-time-you-react-to-things-emotionally/"}
+{"dg-publish":true,"permalink":"/main/2023-07-28-it-s-worth-thinking-about-collateral-damage-any-time-you-react-to-things-emotionally/","noteIcon":""}
 ---
 
 # it's worth thinking about collateral damage any time you react to things emotionally
