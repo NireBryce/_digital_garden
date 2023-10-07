@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-04-i-never-thought-i-d-be-writing-another-post-about-mattel-but-some-weird-misinformation-ended-up-on-my-google-algorithmic-news-thing/"}
+{"dg-publish":true,"permalink":"/main/2023-08-04-i-never-thought-i-d-be-writing-another-post-about-mattel-but-some-weird-misinformation-ended-up-on-my-google-algorithmic-news-thing/","noteIcon":""}
 ---
 
 
