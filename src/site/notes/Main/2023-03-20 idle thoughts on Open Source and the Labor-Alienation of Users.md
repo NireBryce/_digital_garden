@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-03-20-idle-thoughts-on-open-source-and-the-labor-alienation-of-users/"}
+{"dg-publish":true,"permalink":"/main/2023-03-20-idle-thoughts-on-open-source-and-the-labor-alienation-of-users/","noteIcon":""}
 ---
 
 #open-source #labor-alienation #labor #cohost-repost 
