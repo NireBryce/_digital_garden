@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-04-it-feels-like-there-really-needs-to-be-a-so-your-web-of-trust-had-a-propagating-error-what-do/"}
+{"dg-publish":true,"permalink":"/main/2023-07-04-it-feels-like-there-really-needs-to-be-a-so-your-web-of-trust-had-a-propagating-error-what-do/","noteIcon":""}
 ---
 
 #social-panopticon #community-dynamics #social-dynamics #search #cohost-repost
