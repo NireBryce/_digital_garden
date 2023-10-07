@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-05-an-intuition-for-movements/"}
+{"dg-publish":true,"permalink":"/main/2023-08-05-an-intuition-for-movements/","noteIcon":""}
 ---
 
 #left #organizing #organizations #movements #cohost-repost
