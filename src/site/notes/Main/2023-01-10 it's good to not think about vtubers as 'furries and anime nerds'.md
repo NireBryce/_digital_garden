@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-10-it-s-good-to-not-think-about-vtubers-as-furries-and-anime-nerds/"}
+{"dg-publish":true,"permalink":"/main/2023-01-10-it-s-good-to-not-think-about-vtubers-as-furries-and-anime-nerds/","noteIcon":""}
 ---
 
 #nymwars #pseudonyms #vtubers #cohost-repost
