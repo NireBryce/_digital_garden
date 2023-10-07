@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-29-every-so-often-i-remember-that-iraq-had-the-fourth-largest-military-in-the-world-for-a-single-nation/"}
+{"dg-publish":true,"permalink":"/main/2023-07-29-every-so-often-i-remember-that-iraq-had-the-fourth-largest-military-in-the-world-for-a-single-nation/","noteIcon":""}
 ---
 
 #gulf-war #iraq-war #war #cohost-repost
