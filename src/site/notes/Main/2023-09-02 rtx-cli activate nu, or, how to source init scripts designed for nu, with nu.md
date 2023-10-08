@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-09-02-rtx-cli-activate-nu-or-how-to-source-init-scripts-designed-for-nu-with-nu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-09-02-rtx-cli-activate-nu-or-how-to-source-init-scripts-designed-for-nu-with-nu/","noteIcon":"","created":"2023-09-02T23:16:31.651-04:00","updated":"2023-10-06T22:50:23.274-04:00"}
 ---
 
 #rtx #rtx-cli #nushell #rustlang #rust #linux #shell
