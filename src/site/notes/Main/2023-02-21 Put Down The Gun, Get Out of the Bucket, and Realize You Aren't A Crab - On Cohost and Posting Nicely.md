@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-21-put-down-the-gun-get-out-of-the-bucket-and-realize-you-aren-t-a-crab-on-cohost-and-posting-nicely/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-02-21-put-down-the-gun-get-out-of-the-bucket-and-realize-you-aren-t-a-crab-on-cohost-and-posting-nicely/","noteIcon":"","created":"2023-08-09T17:00:09.309-04:00","updated":"2023-10-06T22:47:14.074-04:00"}
 ---
 
 #cohost #common-carriers #diplomacy #social-dynamics #cohost-repost
