@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-20-i-want-mc-master-carr-but-for-related-software-libraries/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-01-20-i-want-mc-master-carr-but-for-related-software-libraries/","noteIcon":"","created":"2023-08-09T16:47:04.484-04:00","updated":"2023-10-06T22:46:42.961-04:00"}
 ---
 
 #computers #dreams #white-whales #cohost-repost 
