@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-21-thinking-about-how-we-re-probably-about-to-enter-another-cool-zone/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-07-21-thinking-about-how-we-re-probably-about-to-enter-another-cool-zone/","noteIcon":"","created":"2023-08-09T14:51:51.263-04:00","updated":"2023-10-06T22:49:07.286-04:00"}
 ---
 
 #labor #the-cool-zone #organizing #left #strikes #enshitification #middle-class #moderates #wedge #geopoliticalsocioeconomics #cohost-repost #thinking-about
