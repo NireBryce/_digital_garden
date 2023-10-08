@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-27-on-writing-and-holding-attention/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-02-27-on-writing-and-holding-attention/","noteIcon":"","created":"2023-08-09T17:06:08.905-04:00","updated":"2023-10-06T22:47:27.358-04:00"}
 ---
 
 #writing #cohost-repost 
