@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2022-11-30-the-purpose-of-a-system-is-what-it-does-is-a-thought-terminating-cliche/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2022-11-30-the-purpose-of-a-system-is-what-it-does-is-a-thought-terminating-cliche/","noteIcon":"","created":"2023-08-09T16:29:39.514-04:00","updated":"2023-10-07T21:19:53.178-04:00"}
 ---
 
 #POSIWID #systems-thinking #thought-terminating-cliches #tech #cohost-repost 
@@ -9,5 +9,5 @@ it's pithy, it gets the point across succinctly, and in my opinion, it lets peop
 
 instead of realizing most of these systems are not meant to do that, and specific, conscious choices from a handful of people made it that way, a minority of a minority of the organizations building them.
 
-and there's your problem, along with an intentionally undereducated populace that's kept in fear of saying no to the boss because you can't afford to find another job
+and there's your problem, along with an intentionally undereducated populace that's kept in fear of saying no to the boss because you can't afford to find another job.
 
