@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-02-on-movements-i-guess/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-02-on-movements-i-guess/","noteIcon":"","created":"2023-08-09T14:48:29.963-04:00","updated":"2023-10-06T22:49:28.930-04:00"}
 ---
 
 
