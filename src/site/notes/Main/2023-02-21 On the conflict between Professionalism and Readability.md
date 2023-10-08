@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-21-on-the-conflict-between-professionalism-and-readability/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-02-21-on-the-conflict-between-professionalism-and-readability/","noteIcon":"","created":"2023-08-09T17:09:34.653-04:00","updated":"2023-10-06T22:47:10.874-04:00"}
 ---
 
 #writing #professionalism #accessibility #cohost-repost
