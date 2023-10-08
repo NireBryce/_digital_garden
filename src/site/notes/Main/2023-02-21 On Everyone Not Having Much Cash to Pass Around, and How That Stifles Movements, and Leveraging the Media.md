@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-21-on-everyone-not-having-much-cash-to-pass-around-and-how-that-stifles-movements-and-leveraging-the-media/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-02-21-on-everyone-not-having-much-cash-to-pass-around-and-how-that-stifles-movements-and-leveraging-the-media/","noteIcon":"","created":"2023-08-09T16:35:02.749-04:00","updated":"2023-10-06T22:47:07.818-04:00"}
 ---
 
 #low-income #poverty #labor #wages #organizing #media #cohost-repost 
