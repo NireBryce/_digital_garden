@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-11-on-the-left-and-pointedly-ignoring-patient-led-research-and-community-care-as-left-movements/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-11-on-the-left-and-pointedly-ignoring-patient-led-research-and-community-care-as-left-movements/","noteIcon":"","created":"2023-08-11T21:35:01.153-04:00","updated":"2023-10-06T22:50:03.440-04:00"}
 ---
 
 #left #organizing #medical
