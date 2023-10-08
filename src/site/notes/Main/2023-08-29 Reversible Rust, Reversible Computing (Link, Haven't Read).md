@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-29-reversible-rust-reversible-computing-link-haven-t-read/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-29-reversible-rust-reversible-computing-link-haven-t-read/","noteIcon":"","created":"2023-08-29T23:41:35.053-04:00","updated":"2023-10-06T22:50:20.284-04:00"}
 ---
 
 #rust #reversible-computing #havent-read-yet #computer-science
