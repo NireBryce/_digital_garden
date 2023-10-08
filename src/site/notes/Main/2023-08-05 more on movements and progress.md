@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-05-more-on-movements-and-progress/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-05-more-on-movements-and-progress/","noteIcon":"","created":"2023-08-09T14:47:26.435-04:00","updated":"2023-10-06T22:49:38.673-04:00"}
 ---
 
 
