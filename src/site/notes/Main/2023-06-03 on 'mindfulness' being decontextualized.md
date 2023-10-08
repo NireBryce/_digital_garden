@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-06-03-on-mindfulness-being-decontextualized/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-06-03-on-mindfulness-being-decontextualized/","noteIcon":"","created":"2023-08-09T14:57:26.758-04:00","updated":"2023-10-06T22:48:28.062-04:00"}
 ---
 
 #mindfulness #meditation #psych #pop-psych #consultants #cohost-repost
