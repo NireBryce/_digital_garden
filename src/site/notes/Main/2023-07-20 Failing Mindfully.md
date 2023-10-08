@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-07-20-failing-mindfully/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-07-20-failing-mindfully/","noteIcon":"","created":"2023-08-09T14:52:54.404-04:00","updated":"2023-10-06T22:49:04.153-04:00"}
 ---
 
 
