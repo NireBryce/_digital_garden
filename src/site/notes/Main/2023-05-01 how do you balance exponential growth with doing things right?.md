@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-05-01-how-do-you-balance-exponential-growth-with-doing-things-right/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-05-01-how-do-you-balance-exponential-growth-with-doing-things-right/","noteIcon":"","created":"2023-08-09T17:15:38.753-04:00","updated":"2023-10-06T22:47:32.808-04:00"}
 ---
 
 #endless-septembers #sociophenomenology #social-dynamics #community-dynamics #cohost-repost
