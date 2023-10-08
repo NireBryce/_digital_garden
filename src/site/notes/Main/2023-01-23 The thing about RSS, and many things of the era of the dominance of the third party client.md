@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-23-the-thing-about-rss-and-many-things-of-the-era-of-the-dominance-of-the-third-party-client/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-01-23-the-thing-about-rss-and-many-things-of-the-era-of-the-dominance-of-the-third-party-client/","noteIcon":"","created":"2023-08-09T16:46:12.797-04:00","updated":"2023-10-06T22:46:46.477-04:00"}
 ---
 
 #rss #third-party-clients #cohost-repost
