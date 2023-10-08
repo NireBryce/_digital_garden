@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-06-23-on-the-nature-of-websites/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-06-23-on-the-nature-of-websites/","noteIcon":"","created":"2023-08-09T14:58:44.677-04:00","updated":"2023-10-06T22:48:43.062-04:00"}
 ---
 
 #webdev #internet #web #computing-industry #cohost-repost
