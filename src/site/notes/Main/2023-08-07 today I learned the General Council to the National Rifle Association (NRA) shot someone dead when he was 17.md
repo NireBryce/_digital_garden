@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-07-today-i-learned-the-general-council-to-the-national-rifle-association-nra-shot-someone-dead-when-he-was-17/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-07-today-i-learned-the-general-council-to-the-national-rifle-association-nra-shot-someone-dead-when-he-was-17/","noteIcon":"","created":"2023-08-09T04:37:47.728-04:00","updated":"2023-10-06T22:49:53.140-04:00"}
 ---
 
 
