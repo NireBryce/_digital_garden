@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-09-podcasts-iran-contra-crack-cocaine-the-cia-and-how-uncovering-it-kickstarted-a-black-cyber-consciousness-in-the-mid-90s/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-09-podcasts-iran-contra-crack-cocaine-the-cia-and-how-uncovering-it-kickstarted-a-black-cyber-consciousness-in-the-mid-90s/","noteIcon":"","created":"2023-08-09T22:32:51.272-04:00","updated":"2023-10-06T22:50:00.483-04:00"}
 ---
 
 #black-cyberconsciousness #black-history #US-history #La-Cia #CIA #Iran-Contra
