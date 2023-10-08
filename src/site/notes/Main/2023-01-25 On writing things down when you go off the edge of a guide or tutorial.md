@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-25-on-writing-things-down-when-you-go-off-the-edge-of-a-guide-or-tutorial/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-01-25-on-writing-things-down-when-you-go-off-the-edge-of-a-guide-or-tutorial/","noteIcon":"","created":"2023-08-09T16:50:09.456-04:00","updated":"2023-10-06T22:46:50.107-04:00"}
 ---
 
 #writing #blogging #guides #open-source #cohost-repost
