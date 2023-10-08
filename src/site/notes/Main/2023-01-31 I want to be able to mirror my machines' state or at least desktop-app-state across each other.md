@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-31-i-want-to-be-able-to-mirror-my-machines-state-or-at-least-desktop-app-state-across-each-other/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-01-31-i-want-to-be-able-to-mirror-my-machines-state-or-at-least-desktop-app-state-across-each-other/","noteIcon":"","created":"2023-08-09T16:52:47.130-04:00","updated":"2023-10-06T22:46:53.001-04:00"}
 ---
 
 #white-whales #computers #machine-mirroring #open-source #linux #cohost-repost 
