@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-06-22-sci-hub-and-hobby-communities/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-06-22-sci-hub-and-hobby-communities/","noteIcon":"","created":"2023-08-09T14:57:51.315-04:00","updated":"2023-10-06T22:48:39.916-04:00"}
 ---
 
 #sci-hub #communities #piracy #science #open-source #cohost-repost
