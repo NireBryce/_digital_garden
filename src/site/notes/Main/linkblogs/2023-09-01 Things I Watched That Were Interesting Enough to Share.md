@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/linkblogs/2023-09-01-things-i-watched-that-were-interesting-enough-to-share/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/linkblogs/2023-09-01-things-i-watched-that-were-interesting-enough-to-share/","noteIcon":"","created":"2023-09-01T15:32:10.296-04:00","updated":"2023-10-06T22:50:53.064-04:00"}
 ---
 
 #linkblog
