@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-24-how-to-resize-discord-app-on-windows/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-02-24-how-to-resize-discord-app-on-windows/","noteIcon":"","created":"2023-08-09T17:05:00.912-04:00","updated":"2023-10-07T00:19:05.694-04:00"}
 ---
 
 #wordpress-repost #discord #tech-support #guides 
