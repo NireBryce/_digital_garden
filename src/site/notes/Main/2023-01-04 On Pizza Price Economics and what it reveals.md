@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-01-04-on-pizza-price-economics-and-what-it-reveals/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-01-04-on-pizza-price-economics-and-what-it-reveals/","noteIcon":"","created":"2023-08-09T16:42:06.355-04:00","updated":"2023-10-06T22:46:36.917-04:00"}
 ---
 
 #capitalism #food #street-economics #cohost-repost 
