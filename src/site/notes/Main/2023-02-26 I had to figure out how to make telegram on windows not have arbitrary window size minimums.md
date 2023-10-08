@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-02-26-i-had-to-figure-out-how-to-make-telegram-on-windows-not-have-arbitrary-window-size-minimums/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-02-26-i-had-to-figure-out-how-to-make-telegram-on-windows-not-have-arbitrary-window-size-minimums/","noteIcon":"","created":"2023-08-09T17:02:31.777-04:00","updated":"2023-10-06T22:47:24.008-04:00"}
 ---
 
 #telegram #tech-support #guides #cohost-repost 
