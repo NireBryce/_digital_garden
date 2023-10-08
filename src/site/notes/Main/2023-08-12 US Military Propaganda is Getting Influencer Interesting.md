@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/2023-08-12-us-military-propaganda-is-getting-influencer-interesting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/main/2023-08-12-us-military-propaganda-is-getting-influencer-interesting/","noteIcon":"","created":"2023-08-12T15:31:36.885-04:00","updated":"2023-10-07T01:22:53.502-04:00"}
 ---
 
 #military #propaganda #influencers #twitch
